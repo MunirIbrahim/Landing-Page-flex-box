@@ -182,3 +182,6 @@ footer {
   color: #ffffff;
   font-weight: 300;
 }
+footer > div {
+  opacity: 0.5;
+}
